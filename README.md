@@ -92,10 +92,16 @@ Please consider citing us if you find this repository useful.👇
 
 ```bibtex
 @inproceedings{chen2022cat,
-  title={CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure},
-  author={Chen, Nuo and Sun, Qiushi and Zhu, Renyu and Li, Xiang and Lu, Xuesong and Gao, Ming},
-  booktitle = {Proceedings of {EMNLP}},
-  year={2022}
+    title     = "{CAT}-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure",
+    author    = "Chen, Nuo  and Sun, Qiushi  and Zhu, Renyu  and
+              Li, Xiang  and Lu, Xuesong  and Gao, Ming",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month     = dec,
+    year      = "2022",
+    address   = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url       = "https://aclanthology.org/2022.findings-emnlp.295",
+    pages     = "4000--4008",
 }
 ```
 
